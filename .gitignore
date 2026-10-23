@@ -10,5 +10,7 @@ data/invoices.db
 .pytest_cache/
 temp/cache/
 temp/tools/
+submission/*.pptx
+submission/*.docx
 .env.aws.generated
 .aws-s3-encryption.json
