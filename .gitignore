@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+data/uploads/*
+!data/uploads/.gitkeep
+data/invoices.db
+.pytest_tmp/
+.pytest_cache/
+temp/cache/
+temp/tools/
+.env.aws.generated
+.aws-s3-encryption.json
